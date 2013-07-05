@@ -4,3 +4,8 @@ under the same terms:
 
 Authors:
 Jack Dobinson
+
+
+Some of these scripts interface with the input/output files of the
+RADMC3D radiative transfer software creaed by Cornelis Dullemond but is in no
+way endorsed by, or affiliated with, him or his work.
